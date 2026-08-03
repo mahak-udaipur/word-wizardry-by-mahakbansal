@@ -25,3 +25,5 @@
 .about-fun-note{margin-top:28px;padding:18px 22px;border:1px dashed #a3486a;background:#f5cfe055;transform:rotate(.7deg)}
 .about-fun-note span{font-size:9px;letter-spacing:.18em;color:#a3486a;font-weight:800}
 .about-fun-note p{font-family:"DM Serif Display";font-size:22px!important;line-height:1.35;margin:8px 0 0!important;color:#3f303a!important}
+
+.d-medium{background:linear-gradient(135deg,#10233d,#27183e);color:#fff}.telescope{position:absolute;right:10%;top:15%;font-size:140px}.medium{background:#0f1830}.medium h2 em{color:#9ed0ff}
